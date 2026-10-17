@@ -1,0 +1,14 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.iml
+
+# Configuration locale
+config.ini
+
+# Docker (base de données locale)
+docker-compose.yml
